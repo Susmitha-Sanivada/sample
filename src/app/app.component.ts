@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'title';
+  property: string = '';
   feature:string=""
 }
